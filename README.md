@@ -1,2 +1,2 @@
-# Ola mundo
-Primeiro Repositorio
+# Olá, mundo!
+Primeiro Repositorio criado pela aula do Guanabara
