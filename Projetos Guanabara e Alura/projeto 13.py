@@ -25,7 +25,7 @@ if len(pessoas) > 0:
         if p[1] == maior_peso:
             print(f'[{p[0]}] ', end='')
 
-    print(f'O menor peso foi de {menor_peso}kg. Peso de ', end='')
+    print(f'o menor peso foi de {menor_peso}kg. Peso de ', end='')
     for p in pessoas:
         if p[1] == menor_peso:
             print(f'[{p[0]}] ', end='')
