@@ -1,4 +1,3 @@
 # Olá, mundo!
 Primeiro Repositorio criado pela aula do Guanabara
-
-toma mais uma linha carai.
+Estarei colocando todos os exercicios que fiz e faço pra melhorar minha lógica 
